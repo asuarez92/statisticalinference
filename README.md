@@ -1,2 +1,3 @@
-# statisticalinference
-Statistical Inference (JHU)
+# Statistical Inference (JHU)
+
+### A Suarez-Pierre
